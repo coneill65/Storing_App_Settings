@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Storing App Settings</string>
+    <string name="name">Name</string>
+    <string name="number">number</string>
+    <string name="class_val">class</string>
+    <string name="dark_mode">dark mode</string>
+    <string name="class_number">class number</string>
+</resources>
